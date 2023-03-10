@@ -1,0 +1,15 @@
+C:\AppMapa\AppMapa\AppMapa\bin\Debug\netstandard2.0\AppMapa.deps.json
+C:\AppMapa\AppMapa\AppMapa\bin\Debug\netstandard2.0\AppMapa.dll
+C:\AppMapa\AppMapa\AppMapa\bin\Debug\netstandard2.0\AppMapa.pdb
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\AppMapa.csproj.AssemblyReference.cache
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\AppMapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\AppMapa.AssemblyInfoInputs.cache
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\AppMapa.AssemblyInfo.cs
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\AppMapa.csproj.CoreCompileInputs.cache
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\AppMapa.dll
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\refint\AppMapa.dll
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\AppMapa.pdb
+C:\AppMapa\AppMapa\AppMapa\obj\Debug\netstandard2.0\ref\AppMapa.dll
